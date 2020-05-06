@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import { StyleSheet, View, Text, Image, TouchableOpacity, Alert} from 'react-native';
-//import FindCoordinates from './components/findCoordinates';
-//import FindCoordinates from './components/findCoordinates';
 
 export default class  FirstPageHome extends Component {
 	state = {

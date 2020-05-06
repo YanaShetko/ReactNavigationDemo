@@ -25,6 +25,7 @@ export default class VideoPlayPage extends Component {
   }
 }
 
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,

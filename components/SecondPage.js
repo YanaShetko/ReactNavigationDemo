@@ -3,7 +3,6 @@ import { StyleSheet, View, Text, Image, TouchableOpacity, Alert} from 'react-nat
 
 export default class  SecondPage extends Component {
   render() {
-   
     return (
       <View style={styles.MainContainer}>
          <TouchableOpacity activeOpacity={0.5}
